@@ -18,7 +18,7 @@ int rowWithMax1s(vector<vector<int>> &matrix, int n, int m)
         }
          if((m - right) > maxCnt) {
              maxCnt = (m - right);
-             ans = i;
+             ans = i;K
          }
     }
     return ans;
