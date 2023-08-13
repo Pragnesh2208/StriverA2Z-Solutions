@@ -1,3 +1,7 @@
+/*
+Time Complexity = O(Log(max(m,n)))
+Space Complexity = O(1)
+*/
 #include <bits/stdc++.h>
 
 int kthElement(vector<int> &arr1, vector<int>& arr2, int n, int m, int k){
